@@ -40,7 +40,7 @@
 /* ........................section first.......................... */
 .bg1 {
 
-    background: url(/img/clip-path-img.jpg)no-repeat center center/cover;
+    background: url(clip-path-img.jpg)no-repeat center center/cover;
 }
 
 .main {
@@ -109,7 +109,7 @@
 
 /* .............section two................... */
 .bg2 {
-    background: url(/img/curve.png)no-repeat center top/cover;
+    background: url(curve.png)no-repeat center top/cover;
     margin-top: -273px;
 }
 
@@ -388,7 +388,7 @@
 
 /* ..........................section no 4................................  */
 .b-color {
-    background: url(/img/docs-bg.jpg) no-repeat center center/cover;
+    background: url(docs-bg.jpg) no-repeat center center/cover;
     /* width: 1370px; */
     margin: 70px;
     border-radius: 20px;
@@ -458,7 +458,7 @@
 }
 
 .footer {
-    background: url(/img/footerBg.png) no-repeat center center/cover;
+    background: url(footerBg.png) no-repeat center center/cover;
 
 }
 
